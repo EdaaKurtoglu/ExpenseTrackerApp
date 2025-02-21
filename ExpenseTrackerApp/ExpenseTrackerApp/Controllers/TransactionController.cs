@@ -9,71 +9,70 @@ using ExpenseTrackerApp.Models;
 
 namespace ExpenseTrackerApp.Controllers
 {
-    public class CategoryController : Controller
+    public class TransactionController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public CategoryController(ApplicationDbContext context)
+        public TransactionController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Category
+        // GET: Transaction
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Categories.ToListAsync());
+            var applicationDbContext = _context.Transactions.Include(t => t.Category);
+            return View(await applicationDbContext.ToListAsync());
         }
 
 
-        // GET: Category/AddOrEdit
-        public IActionResult AddOrEdit(int id)
+        // GET: Transaction/AddOrEdit
+        public IActionResult AddOrEdit(int id = 0)
         {
-            if(id == 0)
-                return View(new Category());
+           // PopulateCategories();
+            if (id == 0)
+                return View(new Transaction());
             else
-                return View(_context.Categories.Find(id));
-
+                return View(_context.Transactions.Find(id));
         }
 
-        // POST: Category/AddOrEdit
+        // POST: Transaction/AddOrEdit
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> AddOrEdit([Bind("CategoryId,Title,Icon,Type")] Category category)
+        public async Task<IActionResult> AddOrEdit([Bind("TransactionId,CategoryId,Amount,Note,Date")] Transaction transaction)
         {
             if (ModelState.IsValid)
             {
-                if (category.CategoryId == 0)
-                {
-                    _context.Add(category);
-                }
-                else 
-                {
-                    _context.Update(category);
-                }
+                if (transaction.TransactionId == 0)
+                    _context.Add(transaction);
+                else
+                    _context.Update(transaction);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(category);
+            //PopulateCategories();
+            return View(transaction);
         }
 
-        
 
-        // POST: Category/Delete/5
+
+        // POST: Transaction/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var category = await _context.Categories.FindAsync(id);
-            if (category != null)
+            var transaction = await _context.Transactions.FindAsync(id);
+            if (transaction != null)
             {
-                _context.Categories.Remove(category);
+                _context.Transactions.Remove(transaction);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
 
     }
 }
