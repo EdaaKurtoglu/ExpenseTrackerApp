@@ -3,56 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\category\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\transaction\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\transaction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|c:\\users\\edaku\\onedrive\\belgeler\\github\\expensetrackerapp\\expensetrackerapp\\expensetrackerapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{993923FC-D023-421D-9CBC-0B4B21721BAF}|ExpenseTrackerApp\\ExpenseTrackerApp.csproj|solutionrelative:expensetrackerapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,53 +63,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
-              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
-              "RelativeToolTip": "ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T22:28:29.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TransactionController.cs",
-              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\TransactionController.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Controllers\\TransactionController.cs",
-              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\TransactionController.cs",
-              "RelativeToolTip": "ExpenseTrackerApp\\Controllers\\TransactionController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwDYAAAAOAAAAAAAAAA==",
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\Transaction.cs",
+              "RelativeToolTip": "ExpenseTrackerApp\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T22:19:52.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "ExpenseTrackerApp\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T22:34:56.273Z",
+              "WhenOpened": "2025-02-18T23:39:31.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddOrEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Views\\Category\\AddOrEdit.cshtml",
-              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Category\\AddOrEdit.cshtml",
-              "RelativeToolTip": "ExpenseTrackerApp\\Views\\Category\\AddOrEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T15:03:52.698Z",
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "ExpenseTrackerApp\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:42:20.553Z",
               "EditorCaption": ""
             },
             {
@@ -128,40 +94,79 @@
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Views\\Transaction\\Index.cshtml",
               "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Transaction\\Index.cshtml",
               "RelativeToolTip": "ExpenseTrackerApp\\Views\\Transaction\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T22:36:48.155Z",
+              "WhenOpened": "2025-02-25T23:39:06.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Program.cs",
+              "RelativeToolTip": "ExpenseTrackerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:54:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
+              "RelativeToolTip": "ExpenseTrackerApp\\Views\\Transaction\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T22:40:09.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:47:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\Category.cs",
               "RelativeToolTip": "ExpenseTrackerApp\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T23:33:18.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ExpenseTrackerApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-19T01:00:39.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\wwwroot\\css\\site.css",
@@ -169,12 +174,11 @@
               "RelativeToolTip": "ExpenseTrackerApp\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T01:18:28.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T01:18:28.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ExpenseTrackerApp\\Controllers\\CategoryController.cs",
@@ -182,8 +186,7 @@
               "RelativeToolTip": "ExpenseTrackerApp\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T00:47:33.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T00:47:33.883Z"
             },
             {
               "$type": "Document",
@@ -195,47 +198,7 @@
               "RelativeToolTip": "ExpenseTrackerApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T00:59:48.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Program.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Program.cs",
-              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Program.cs",
-              "RelativeToolTip": "ExpenseTrackerApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:54:03.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ExpenseTrackerApp\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:47:22.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "ExpenseTrackerApp\\Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\edaku\\OneDrive\\Belgeler\\GitHub\\ExpenseTrackerApp\\ExpenseTrackerApp\\ExpenseTrackerApp\\Models\\Transaction.cs",
-              "RelativeToolTip": "ExpenseTrackerApp\\Models\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T23:39:31.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T00:59:48.647Z"
             }
           ]
         }
